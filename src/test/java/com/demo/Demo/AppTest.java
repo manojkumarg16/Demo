@@ -1,7 +1,6 @@
 package com.demo.Demo;
 
 
-
 import junit.framework.Assert;
 
 public class AppTest {
